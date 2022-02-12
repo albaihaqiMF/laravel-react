@@ -12,7 +12,7 @@
 - git clone https://github.com/albaihaqiMF/laravel-react.git {your-app-name}.
 - composer install.
 - yarn && yarn watch | npm install && npm run watch (if you don't have yarn package).
-- php -r "file_exists('.env') || copy('.env.example', '.env').
+- copy ".env.example", ".env".
 - php artisan key:generate.
 - php artisan migrate:fresh.
 
