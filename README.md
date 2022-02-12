@@ -6,9 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
 ## Installation
 
-- git clone {repo} {your-app-name}
+- git clone https://github.com/albaihaqiMF/laravel-react.git {your-app-name}
 - composer install
 - yarn && yarn watch | npm install && npm run watch (if you don't have yarn package)
 
